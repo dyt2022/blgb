@@ -123,7 +123,8 @@ const {
  * 回上一页
  */
 const doBack = () => {
-  router.back();
+  //router.back();
+  router.push("/");
 };
 
 onMounted(() => {
