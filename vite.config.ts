@@ -9,7 +9,7 @@ export default defineConfig({
       include: [/\.vue$/],
     }),
   ],
-  base: '/clgc/',
+  base: '/blgb/',
   build: {
     rollupOptions: {
         output: {

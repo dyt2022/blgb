@@ -8,7 +8,7 @@
     <a-row align="center">
       <div v-if="gameStatus === 3" style="text-align: center">
         <h2>恭喜，你赢啦！🎉</h2>
-        <img class="imgwin" src="../assets/chengcheng.jpg" />
+        <img class="imgwin" src="../assets/win.jpg" />
       </div>
     </a-row>
     <!-- 分层选块 -->
@@ -201,3 +201,4 @@ onMounted(() => {
 <img src="../assets/15.jpg" hidden>
 <img src="../assets/16.jpg" hidden>
 <img src="../assets/17.jpg" hidden>
+<img src="../assets/18.jpg" hidden>

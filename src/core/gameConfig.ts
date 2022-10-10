@@ -41,6 +41,7 @@ const animals = [
   "assets/15.jpg",
   "assets/16.jpg",
   "assets/17.jpg",
+  "assets/18.jpg",
 ];
 
 export const defaultGameConfig: GameConfigType = {
