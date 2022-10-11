@@ -170,8 +170,8 @@ onMounted(() => {
 }
 
 .block {
-  width: 45px;
-  height: 45px;
+  width: 42px;
+  height: 42px;
   border: 1px solid #eee;
   background: white;
   text-align: center;
@@ -180,8 +180,8 @@ onMounted(() => {
 }
 
 .imgblock {
-  width: 43px;
-  height: 43px;
+  width: 40px;
+  height: 40px;
 }
 .imgwin {
   width: 100%;
